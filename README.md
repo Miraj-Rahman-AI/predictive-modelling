@@ -6,7 +6,6 @@ This repository contains a collection of predictive models implemented in Python
 
 The primary goal of this project is to demonstrate the implementation and application of neural networks for solving real-world problems. This includes a from-scratch implementation of a CNN for image processing and several models designed for business cost forecasting.
 
----
 
 ## Features
 
@@ -28,7 +27,6 @@ This repository includes the following models:
     * Raw Material Costs (`LSTMrawmaterial`)
 * **Testing:** Includes corresponding scripts to test the models' performance.
 
----
 
 ## Technologies Used
 
@@ -38,7 +36,6 @@ This repository includes the following models:
     * **Matplotlib:** For visualizing the output of network layers.
     * **Pillow (PIL):** For opening and processing images.
 
----
 
 ## How to Use
 
@@ -62,8 +59,3 @@ This repository includes the following models:
     python annLSTMsalesstoringcost.py
     ```
 
----
-
-## 📄 License
-
-This project is distributed under the terms of the LICENSE file. Please see the `LICENSE` file for more details.
